@@ -1,0 +1,50 @@
+.INDIAN:hover{
+color:lightpink;
+}
+html{
+  background:url(lipstick.jpeg);
+}
+.shikha{
+  background-color: pink;
+  color:black;
+  height:100%;
+  width:100%;
+}
+.shikha:hover{
+  color:red;
+}
+.section{
+  height:70px;
+  width:70px;
+  padding:50px;
+}
+.picture{
+border-radius:100%;
+float:left;
+}
+.MAKEUP:hover{
+  color:yellow;
+}
+.text:hover{
+  color:pink;
+}
+.pic{
+background-color:#FD5D5D;
+height:100%;
+width:100%;
+}
+.shikha1{
+  color:blue;
+}
+.aloo{
+  background-color: #F7CCAC;
+  height:100%;
+  width:100%;
+}
+.imgcr{
+ margin-left: 70px;
+ margin-right: 70px;
+ height: 400px;
+ margin-bottom: 170px;
+ margin-top: 20px;
+}
